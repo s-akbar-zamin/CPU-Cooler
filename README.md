@@ -2,7 +2,7 @@
 
 I built a CPU water cooler in high school from old computer parts to learn how to weld, solder, and basic circuit design. Images and descriptions were taken from a college essay titled Philosophy of Engineering.pdf.
 
-1.Radiator and Fans
+1. Radiator and Fans
 
 ![image](https://github.com/user-attachments/assets/a2caf902-3d17-4e1f-870e-25f4e2bfadf5)
 
