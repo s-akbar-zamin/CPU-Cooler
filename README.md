@@ -5,6 +5,7 @@ I built a CPU water cooler in high school from old computer parts to learn how t
 1.Radiator and Fans
 
 ![image](https://github.com/user-attachments/assets/a2caf902-3d17-4e1f-870e-25f4e2bfadf5)
+
 Image of radiator for liquid cooler fashioned from two old heatsinks and fans.
 
 
