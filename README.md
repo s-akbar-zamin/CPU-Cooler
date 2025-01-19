@@ -1,6 +1,6 @@
 # CPU-Cooler
 
-I built a CPU water cooler in high school from old computer parts to learn how to weld, solder, and basic circuit design. Images and descriptions were taken from a college essay titled Test 1.pdf; in this document uploaded to this respository, the sub-essay under 2 describes this project is greater detail.
+I built a CPU water cooler in high school from old computer parts to learn how to weld, solder, and basic circuit design. Images and descriptions were taken from a college essay titled Test.pdf. This document uploaded to the respository describes my "philosophy of engineering" and this project.
 
 1.Radiator and Fans
 
