@@ -1,6 +1,6 @@
 # CPU-Cooler
 
-I built a CPU water cooler in high school from old computer parts to learn how to weld, solder, and basic circuit design. Images and descriptions were taken from a college essay titled Test.pdf. This document uploaded to the respository describes my "philosophy of engineering" and this project.
+I built a CPU water cooler in high school from old computer parts to learn how to weld, solder, and basic circuit design. Images and descriptions were taken from a college essay titled Philosophy of Engineering.pdf.
 
 1.Radiator and Fans
 
@@ -8,7 +8,7 @@ I built a CPU water cooler in high school from old computer parts to learn how t
 
 Image of radiator for liquid cooler fashioned from two old heatsinks and fans. The fans' wires were cut, soldered, and marked by electrical tape. Rubber bands held the fans together. Adhesive glue and plastic enclose the circulation system.
 
-Each fan accepted a 12V power supply. Below are the pre-soldering circuit and post-soldering circuit in parallel. The voltage drop across both fans in the parallel circuit would be the same as the pre-soldering circuit; this would allow them to run at the same pre-soldering speed but demanding increased power output from the supply.
+Each fan accepted a 12V power supply. Below are the pre-soldering circuit and post-soldering circuit in parallel. The voltage drop across both fans in the parallel circuit would be the same as the pre-soldering circuit; this would allow them to run at the same pre-soldering speed but require increased power output from the supply.
 
 ![1 resistor](https://github.com/user-attachments/assets/962fe5fc-bf13-4604-b8b0-2a4d9af3b5f3)
 
